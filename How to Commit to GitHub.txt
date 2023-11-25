@@ -1,0 +1,18 @@
+git status
+
+see what needs changing
+
+git add conway.py (for example, you can also add multiple changed files)
+
+git commit -m "a message about my changes"
+
+git push (sends your local changes up to github)
+
+
+--------------------------------------
+
+GIT BASH
+
+ls - list files in the current directory
+cd - go somewhere
+e.g., cd/scarlett/files
